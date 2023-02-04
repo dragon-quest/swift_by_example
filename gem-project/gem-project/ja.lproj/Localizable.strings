@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  FunRecipe
+
+  Created by 中江洋史 on 2022/11/01.
+  
+*/
+
+"SOUP" = "スープ";
+"SIDE_DISH" = "副菜";
+"MAIN_DISH" = "主食";
+"RECORDED_AT" = "yyyy年M月d日";
+"DATA_ERROR" = "error";
+"ALERT_ERROR_TITLE" = "Error";
+"ALERT_OK_BUTTON_TITLE" = "OK";
