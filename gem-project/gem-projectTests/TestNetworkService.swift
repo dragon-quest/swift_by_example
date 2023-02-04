@@ -2,11 +2,9 @@
 //  TestNetworkService.swift
 //  FunRecipeTests
 //
-//  Created by 中江洋史 on 2022/10/31.
-//
 
 import XCTest
-@testable import FunRecipe
+@testable import gem_project
 
 class TestNetworkService: XCTestCase {
     func testCookingRecord() throws {

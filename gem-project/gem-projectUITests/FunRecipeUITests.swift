@@ -2,8 +2,6 @@
 //  FunRecipeUITests.swift
 //  FunRecipeUITests
 //
-//  Created by 中江洋史 on 2022/11/01.
-//
 
 import XCTest
 

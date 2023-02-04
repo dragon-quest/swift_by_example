@@ -2,8 +2,6 @@
 //  Constants.swift
 //  FunRecipe
 //
-//  Created by 中江洋史 on 2022/10/28.
-//
 
 class Constants {
     static let API_URL = "https://api.gem-project.shop"

@@ -2,8 +2,6 @@
 //  CookingRecordController.swift
 //  FunRecipe
 //
-//  Created by 中江洋史 on 2022/10/27.
-//
 
 import UIKit
 

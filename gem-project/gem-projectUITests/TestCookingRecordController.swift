@@ -2,8 +2,6 @@
 //  TestCookingRecordController.swift
 //  FunRecipeUITests
 //
-//  Created by 中江洋史 on 2022/11/02.
-//
 
 import XCTest
 
