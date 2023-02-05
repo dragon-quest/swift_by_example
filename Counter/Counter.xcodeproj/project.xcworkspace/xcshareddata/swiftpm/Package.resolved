@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RealmDatabase",
+        "repositoryURL": "https://github.com/realm/realm-core",
+        "state": {
+          "branch": null,
+          "revision": "472d325a2e844fcb48c400db74e6b9646f92ca93",
+          "version": "11.15.0"
+        }
+      },
+      {
+        "package": "Realm",
+        "repositoryURL": "https://github.com/realm/realm-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "41fe221e2209ad31bee35593513d957dc3e6e458",
+          "version": "10.25.2"
+        }
+      },
+      {
+        "package": "RxCombine",
+        "repositoryURL": "https://github.com/CombineCommunity/RxCombine",
+        "state": {
+          "branch": null,
+          "revision": "19474c2ac9fde613bba8513bf98990e1aa9831cd",
+          "version": "2.0.1"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "b4307ba0b6425c0ba4178e138799946c3da594f8",
+          "version": "6.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
